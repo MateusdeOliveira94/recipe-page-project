@@ -1,0 +1,19 @@
+@charset "UFT-8";
+ 
+body {
+    max-width: 700px;
+    margin: auto;
+    margin-bottom: 32px;
+}
+
+div#picture {
+    display: block;
+    margin: auto;    
+    margin-top: 32px;
+    height: 300px;
+    border-radius: 16px;
+    margin-bottom: 24px;
+    background: url(recipe-page-main/assets/images/image-omelette.jpeg) top center no-repeat;
+    background-size: cover;
+}
+
